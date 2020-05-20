@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589984283 source:e:\c++\programs\electricity_bill\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
