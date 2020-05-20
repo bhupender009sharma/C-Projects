@@ -1,2 +1,2 @@
-# C-Projects
+# C++-Projects
 projects done using c++
